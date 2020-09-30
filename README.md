@@ -1,2 +1,2 @@
-# background-generator
-background-generator
+# background-generator-gradient
+choose you background color
