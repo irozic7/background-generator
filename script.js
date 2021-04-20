@@ -22,7 +22,7 @@ color2.addEventListener("input", setGradient);
 
 
 
-//*************** SKRATILI SMO OVAJ KOD S OVIM GORE ****************//
+//*************** LONGER VERSION OF THE CODE ABOVE ****************//
 
 // color1.addEventListener("input", function(){
 // 	body.style.background =
